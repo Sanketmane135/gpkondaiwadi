@@ -65,8 +65,10 @@ function page() {
     <>
      <div className="flex justify-center items-center min-h-screen bg-gray-100 p-4">
       <form
-        onSubmit={handleSubmit}
+       
         className="bg-white shadow-lg rounded-2xl p-8 w-full max-w-md"
+        action="https://formspree.io/f/xqaywjnk"
+        method="POST"
       >
         <h2 className="text-2xl font-semibold text-green-700 mb-6 text-center">
           संपर्क करा 

@@ -23,7 +23,7 @@ function page() {
               मालमत्ता कर यावरती भरा 
             </h3>
             <img
-              src="/gramnidhi.png"
+              src="/ghar.png"
               alt="Property Tax QR Code"
               className="mx-auto  w-40 h-40 md:w-56 md:h-56  rounded-xl border border-gray-300 shadow-sm"
             />
@@ -37,7 +37,7 @@ function page() {
              पाणी कर यावरती भरा 
             </h3>
             <img
-              src="/panipatti.jpeg"
+              src="/pani.png"
               alt="Water Tax QR Code"
               className="mx-auto  w-40 h-40 md:w-56 md:h-56 rounded-xl border border-gray-300 shadow-sm"
             />
