@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Kondaiwadi Grampanchayat",
-  description: "Empowering our community through sustainable development, tradition, and unity",
+  title: "ग्रामपंचायत कोंडाईवाडी",
+  description: "गाव म्हणजे केवळ मातीचे घर नाही, तर ती आपल्या आठवणींची बाग आहे",
 };
 
 export default function RootLayout({ children }) {
