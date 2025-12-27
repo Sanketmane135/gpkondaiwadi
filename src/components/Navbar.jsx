@@ -22,6 +22,7 @@ const Navbar = () => {
           <li><a href="/work" onClick={toggleMenu} className="hover:text-green-200">कामे</a></li>
           <li><a href="/schemes" className="hover:text-green-200 transition">योजना </a></li>
           <li><a href="/taxcollection" className="hover:text-green-200 transition">कर वसूली  </a></li>
+          <li><a href="/services" className="hover:text-green-200 transition"> नागरी सुविधा</a></li>
 
           <li><a href="/contact" className="hover:text-green-200 transition">संपर्क </a></li>
         </ul>
@@ -44,6 +45,7 @@ const Navbar = () => {
             <li><a href="/work" onClick={toggleMenu} className="hover:text-green-200">कामे</a></li>
             <li><a href="/schemes"  onClick={toggleMenu} className="hover:text-green-200">योजना</a></li>
             <li><a href="/taxcollection" onClick={toggleMenu} className="hover:text-green-200">भत्ता</a></li>
+             <li><a href="/services" className="hover:text-green-200 transition">नागरी सुविधा </a></li>
             <li><a href="/contact" onClick={toggleMenu} className="hover:text-green-200">संपर्क</a></li> 
           </ul>
         </div>
